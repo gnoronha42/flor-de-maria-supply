@@ -1,0 +1,159 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados da Busca - Papelaria Flor de Maria</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        .actions {
+            display: flex;
+            gap: 10px;
+        }
+        .transaction-form {
+            display: flex;
+            gap: 5px;
+            align-items: center;
+        }
+        input[type="number"] {
+            width: 60px;
+            padding: 5px;
+        }
+        button {
+            padding: 5px 10px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 3px;
+        }
+        button.remove {
+            background-color: #f44336;
+        }
+        .nav {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .nav a {
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 3px;
+        }
+        .search {
+            margin-bottom: 20px;
+        }
+        .search input {
+            padding: 8px;
+            width: 300px;
+        }
+        .edit-delete {
+            display: flex;
+            gap: 5px;
+        }
+        .edit-delete a {
+            padding: 5px 10px;
+            background-color: #FFC107;
+            color: white;
+            text-decoration: none;
+            border-radius: 3px;
+        }
+        .edit-delete form button {
+            background-color: #f44336;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Resultados da Busca</h1>
+        
+        <div class="nav">
+            <a href="/">Estoque</a>
+            <a href="/transactions">Histórico de Transações</a>
+            <a href="/dashboard">Dashboard</a>
+        </div>
+        
+        <div class="search">
+            <form action="/search" method="get">
+                <input type="text" name="q" placeholder="Buscar produto..." value="{{ query }}">
+                <button type="submit">Buscar</button>
+            </form>
+        </div>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Produto</th>
+                    <th>Quantidade</th>
+                    <th>Preço (R$)</th>
+                    <th>Valor Total (R$)</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for product in products %}
+                <tr>
+                    <td>{{ product.id }}</td>
+                    <td>{{ product.name }}</td>
+                    <td>{{ product.quantity }}</td>
+                    <td>{{ "%.2f"|format(product.price) }}</td>
+                    <td>{{ "%.2f"|format(product.quantity * product.price) }}</td>
+                    <td>
+                        <div class="actions">
+                            <form class="transaction-form" action="/update/{{ product.id }}" method="post">
+                                <input type="number" name="quantity" min="1" value="1" required>
+                                <button type="submit" name="type" value="add">Entrada</button>
+                                <button type="submit" name="type" value="remove" class="remove">Saída</button>
+                            </form>
+                            <div class="edit-delete">
+                                <a href="/edit_product/{{ product.id }}">Editar</a>
+                                <form action="/delete_product/{{ product.id }}" method="post" onsubmit="return confirm('Tem certeza que deseja excluir este produto?');">
+                                    <button type="submit">Excluir</button>
+                                </form>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
+        

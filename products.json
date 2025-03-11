@@ -1,0 +1,3239 @@
+{
+  "products": [
+    {
+      "quantity": 6,
+      "name": "Lápis de Cor 12 cores Hello Kitty Leo e Leo",
+      "price": 16.5
+    },
+    {
+      "quantity": 2,
+      "name": "Estojo Sonic  Tecido",
+      "price": 75.0
+    },
+    {
+      "quantity": 4,
+      "name": "Pratos Hello Kitty",
+      "price": 30.0
+    },
+    {
+      "quantity": 6,
+      "name": "Borracha Retratil Sonic",
+      "price": 20.0
+    },
+    {
+      "quantity": 8,
+      "name": "Estojo de tecido Leo e Leo",
+      "price": 25.0
+    },
+    {
+      "quantity": 11,
+      "name": "Mochila Personagem",
+      "price": 160.0
+    },
+    {
+      "quantity": 8,
+      "name": "Mini Fichario Sanrio",
+      "price": 96.0
+    },
+    {
+      "quantity": 11,
+      "name": "Lápis Infinito  Sanrio",
+      "price": 17.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta 10 Cores Sanrio",
+      "price": 20.0
+    },
+    {
+      "quantity": 3,
+      "name": "Perfurador de Papel",
+      "price": 25.0
+    },
+    {
+      "quantity": 4,
+      "name": "Kit Borrachas Fast Food",
+      "price": 25.0
+    },
+    {
+      "quantity": 2,
+      "name": "Borracha Big Fast Food.   ?",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Bolsinha de Silicone",
+      "price": 60.0
+    },
+    {
+      "quantity": 3,
+      "name": "Bolsinha Lotso",
+      "price": 60.0
+    },
+    {
+      "quantity": 2,
+      "name": "Cx Som Lotso Peq",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Cx Som Lptso Média",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Garrafa Azul Gato",
+      "price": 52.0
+    },
+    {
+      "quantity": 2,
+      "name": "Garrafa Termica Dino",
+      "price": 85.0
+    },
+    {
+      "quantity": 2,
+      "name": "Garrafa Termica Gato",
+      "price": 85.0
+    },
+    {
+      "quantity": 9,
+      "name": "Bloco Adesivo Pata",
+      "price": 8.5
+    },
+    {
+      "quantity": 2,
+      "name": "Bloco Adesivo Neon",
+      "price": 26.0
+    },
+    {
+      "quantity": 1,
+      "name": "Bloco Adesivo Neon c 4",
+      "price": 14.9
+    },
+    {
+      "quantity": 9,
+      "name": "Bloco Anotações 160F",
+      "price": 12.0
+    },
+    {
+      "quantity": 3,
+      "name": "Aquarela 12 Cores c Pincel",
+      "price": 22.0
+    },
+    {
+      "quantity": 10,
+      "name": "kit Canetas Mentos",
+      "price": 28.0
+    },
+    {
+      "quantity": 4,
+      "name": "Cartela Marca Texto Mentos",
+      "price": 34.5
+    },
+    {
+      "quantity": 5,
+      "name": "kit Massa Princesa",
+      "price": 38.0
+    },
+    {
+      "quantity": 4,
+      "name": "Calculadora coração Letron 8 digits",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "28.90",
+      "price": 0.0
+    },
+    {
+      "quantity": 5,
+      "name": "mouse pad",
+      "price": 20.0
+    },
+    {
+      "quantity": 2,
+      "name": "Fichario Mickey",
+      "price": 119.0
+    },
+    {
+      "quantity": 5,
+      "name": "kit Lápis Espaço Espaço",
+      "price": 24.0
+    },
+    {
+      "quantity": 5,
+      "name": "kit Lápis Donuts",
+      "price": 24.0
+    },
+    {
+      "quantity": 3,
+      "name": "Kit Lapis Brink",
+      "price": 24.0
+    },
+    {
+      "quantity": 4,
+      "name": "Bloco Colorir Hello Kitty",
+      "price": 25.0
+    },
+    {
+      "quantity": 6,
+      "name": "Planner Hello",
+      "price": 35.0
+    },
+    {
+      "quantity": 3,
+      "name": "Agenda Hello",
+      "price": 40.0
+    },
+    {
+      "quantity": 2,
+      "name": "Mini Fich. Hello Kitty",
+      "price": 76.0
+    },
+    {
+      "quantity": 2,
+      "name": "Mino Fich. Bolinhas",
+      "price": 63.0
+    },
+    {
+      "quantity": 2,
+      "name": "Maletas Massa Hello Kitty",
+      "price": 84.0
+    },
+    {
+      "quantity": 1,
+      "name": "kit Marcador H.Potter",
+      "price": 70.0
+    },
+    {
+      "quantity": 5,
+      "name": "Livros de Colorir Olhinhos",
+      "price": 24.0
+    },
+    {
+      "quantity": 4,
+      "name": "Livros de Colorir Avangers",
+      "price": 12.0
+    },
+    {
+      "quantity": 2,
+      "name": "Livros de Colorir Dinossa",
+      "price": 45.0
+    },
+    {
+      "quantity": 4,
+      "name": "Livros de Colorir Stitch",
+      "price": 48.0
+    },
+    {
+      "quantity": 5,
+      "name": "Livros de Colorir Princesas",
+      "price": 20.0
+    },
+    {
+      "quantity": 5,
+      "name": "Livros de Colorir Dino",
+      "price": 20.0
+    },
+    {
+      "quantity": 5,
+      "name": "Livros de Colorir Fazenda",
+      "price": 20.0
+    },
+    {
+      "quantity": 7,
+      "name": "Livros de Colorir Cozy Time",
+      "price": 35.0
+    },
+    {
+      "quantity": 4,
+      "name": "Livros de Colorir Comfy Days",
+      "price": 35.0
+    },
+    {
+      "quantity": 9,
+      "name": "Grafite 0.7 Tom e Jerry",
+      "price": 17.0
+    },
+    {
+      "quantity": 8,
+      "name": "Cadernos Hello Kitty Colegial 80F",
+      "price": 52.0
+    },
+    {
+      "quantity": 20,
+      "name": "Clips diversos temas",
+      "price": 9.0
+    },
+    {
+      "quantity": 6,
+      "name": "Lapis de Cor Stitch",
+      "price": 48.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caneta Stitch 4 Cores",
+      "price": 16.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caneta Stitch Esfer. Preta c Marcador",
+      "price": 13.0
+    },
+    {
+      "quantity": 9,
+      "name": "Caneta Stitch Colorida",
+      "price": 15.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Stitch 4 cores     78 ?",
+      "price": 0.0
+    },
+    {
+      "quantity": 7,
+      "name": "Caderno Imã Sanrio",
+      "price": 77.0
+    },
+    {
+      "quantity": 12,
+      "name": "Pastas A4 Stitch",
+      "price": 25.0
+    },
+    {
+      "quantity": 10,
+      "name": "Chaveiros Stitch",
+      "price": 22.0
+    },
+    {
+      "quantity": 5,
+      "name": "Garrafa Stitch",
+      "price": 44.0
+    },
+    {
+      "quantity": 8,
+      "name": "Pastas Elastico",
+      "price": 9.0
+    },
+    {
+      "quantity": 17,
+      "name": "Caneta Colorir Dual Touch 12 Cores",
+      "price": 75.0
+    },
+    {
+      "quantity": 19,
+      "name": "Caneta Colorir Dual Touch 24 Cores",
+      "price": 90.0
+    },
+    {
+      "quantity": 2,
+      "name": "Caneta Colorir Dual Touch 48 Cores",
+      "price": 150.0
+    },
+    {
+      "quantity": 8,
+      "name": "Caneta Colorir Dual Touch 36 Cores",
+      "price": 130.0
+    },
+    {
+      "quantity": 1,
+      "name": "Caneta Colorir Dual Touch 60 Cores",
+      "price": 210.0
+    },
+    {
+      "quantity": 1,
+      "name": "Caneta Colorir Dual Touch 100 Cores",
+      "price": 280.0
+    },
+    {
+      "quantity": 2,
+      "name": "Caneta Colorir Dual Touch 120 Cores",
+      "price": 320.0
+    },
+    {
+      "quantity": 3,
+      "name": "Caneta Dual Brush 48 Cores",
+      "price": 150.0
+    },
+    {
+      "quantity": 3,
+      "name": "Caneta Dual Brush 80 Cores",
+      "price": 270.0
+    },
+    {
+      "quantity": 12,
+      "name": "Canetas Sorvete",
+      "price": 10.0
+    },
+    {
+      "quantity": 9,
+      "name": "kit Gramp. Hello Kitty Rosa",
+      "price": 30.0
+    },
+    {
+      "quantity": 2,
+      "name": "kit Gramp. Hello Kitty Verm",
+      "price": 30.0
+    },
+    {
+      "quantity": 4,
+      "name": "kit Gramp. Lotso",
+      "price": 30.0
+    },
+    {
+      "quantity": 2,
+      "name": "Borrachas Câmera Kuromi",
+      "price": 45.0
+    },
+    {
+      "quantity": 2,
+      "name": "Borracha Camera Lotso",
+      "price": 45.0
+    },
+    {
+      "quantity": 9,
+      "name": "Apontador Simples Lotso",
+      "price": 17.5
+    },
+    {
+      "quantity": 10,
+      "name": "Apontador c Deposito lotso",
+      "price": 24.0
+    },
+    {
+      "quantity": 24,
+      "name": "Marca Texto Lotso",
+      "price": 6.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta 10 Cores Lotso",
+      "price": 20.0
+    },
+    {
+      "quantity": 11,
+      "name": "Caneta Gel Apagavel Preta Lotso",
+      "price": 13.0
+    },
+    {
+      "quantity": 6,
+      "name": "Caneta 12 Cores Barbie",
+      "price": 20.0
+    },
+    {
+      "quantity": 5,
+      "name": "Diario Magico Harry Potter",
+      "price": 70.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Pena Harry Potter",
+      "price": 25.0
+    },
+    {
+      "quantity": 3,
+      "name": "Planner Herry Potter",
+      "price": 35.0
+    },
+    {
+      "quantity": 24,
+      "name": "Caneta Capivara Gel 0.5",
+      "price": 10.0
+    },
+    {
+      "quantity": 3,
+      "name": "Caneta CapivaraEsferog.Preta c Marcador",
+      "price": 13.0
+    },
+    {
+      "quantity": 9,
+      "name": "Estilete Capivara",
+      "price": 15.0
+    },
+    {
+      "quantity": 5,
+      "name": "Clips Capivara",
+      "price": 12.0
+    },
+    {
+      "quantity": 1,
+      "name": "Chaveiro Capivara Mora",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Chaveiro Capivara Abacate",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Chaveiro Capivara Rosa",
+      "price": 0.0
+    },
+    {
+      "quantity": 8,
+      "name": "Apontador Capivara",
+      "price": 20.0
+    },
+    {
+      "quantity": 18,
+      "name": "Marca Texto Capivara",
+      "price": 10.0
+    },
+    {
+      "quantity": 18,
+      "name": "Marca Texto Mario",
+      "price": 10.0
+    },
+    {
+      "quantity": 18,
+      "name": "Marca Texto Bob Esponja",
+      "price": 10.0
+    },
+    {
+      "quantity": 18,
+      "name": "Marca Texto Extintor",
+      "price": 10.0
+    },
+    {
+      "quantity": 18,
+      "name": "Marca Texto Sanrio",
+      "price": 10.0
+    },
+    {
+      "quantity": 12,
+      "name": "Réguas Capivara",
+      "price": 19.5
+    },
+    {
+      "quantity": 6,
+      "name": "Apontador Pata",
+      "price": 12.0
+    },
+    {
+      "quantity": 6,
+      "name": "Apontador Borracha Pata Rosa",
+      "price": 20.0
+    },
+    {
+      "quantity": 4,
+      "name": "Apontador Borracha Pata Branco",
+      "price": 20.0
+    },
+    {
+      "quantity": 12,
+      "name": "Canetas 3 Cores Divert",
+      "price": 18.0
+    },
+    {
+      "quantity": 1,
+      "name": "5Lapis de Cor 12 Cores Sonic",
+      "price": 22.0
+    },
+    {
+      "quantity": 6,
+      "name": "Caneta Gel Capivara 0.5  Metaliza",
+      "price": 18.0
+    },
+    {
+      "quantity": 9,
+      "name": "Caneta Capivara Gel 0.5 Azul c Espelho",
+      "price": 18.0
+    },
+    {
+      "quantity": 5,
+      "name": "Caneta Gel Capivara c Metal",
+      "price": 18.0
+    },
+    {
+      "quantity": 6,
+      "name": "Estojos Capivara Simples",
+      "price": 35.0
+    },
+    {
+      "quantity": 3,
+      "name": "Estojo Tecido Capivara duplo",
+      "price": 85.0
+    },
+    {
+      "quantity": 6,
+      "name": "Estojo Capivara Grande",
+      "price": 60.0
+    },
+    {
+      "quantity": 2,
+      "name": "Estojo Capivara Rosa",
+      "price": 25.0
+    },
+    {
+      "quantity": 5,
+      "name": "Borracha Capivara",
+      "price": 20.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caderno Capivara",
+      "price": 85.0
+    },
+    {
+      "quantity": 8,
+      "name": "Lapis Infinito",
+      "price": 10.0
+    },
+    {
+      "quantity": 12,
+      "name": "Grafite Troca Ponta Pata",
+      "price": 8.0
+    },
+    {
+      "quantity": 3,
+      "name": "Diario Divertidamente",
+      "price": 85.0
+    },
+    {
+      "quantity": 2,
+      "name": "Calculadora 8 Digitos Pastel",
+      "price": 70.0
+    },
+    {
+      "quantity": 3,
+      "name": "Calculadora 8 Dig Hello Kitty",
+      "price": 35.0
+    },
+    {
+      "quantity": 3,
+      "name": "Calculadora 8 Dig Hello Acri",
+      "price": 63.0
+    },
+    {
+      "quantity": 2,
+      "name": "Calculadora 8 Dig Stitch Acri",
+      "price": 63.0
+    },
+    {
+      "quantity": 3,
+      "name": "Borracha Sandalia Stitch",
+      "price": 35.0
+    },
+    {
+      "quantity": 5,
+      "name": "Cola Bastão Pata",
+      "price": 20.0
+    },
+    {
+      "quantity": 5,
+      "name": "Lapis de 12 Cores Leo e Leo",
+      "price": 12.0
+    },
+    {
+      "quantity": 6,
+      "name": "Lapis de 06 Cores Leo e Leo",
+      "price": 8.5
+    },
+    {
+      "quantity": 3,
+      "name": "Massa Modelar Leo e Leo",
+      "price": 11.0
+    },
+    {
+      "quantity": 1,
+      "name": "3Giz de Cera 6 Cores Big Leo e Leo",
+      "price": 9.0
+    },
+    {
+      "quantity": 24,
+      "name": "Carga 0.7 mm Leo e Leo",
+      "price": 4.0
+    },
+    {
+      "quantity": 4,
+      "name": "Giz de Cera Fino",
+      "price": 8.0
+    },
+    {
+      "quantity": 24,
+      "name": "Apontador C Deposito",
+      "price": 6.0
+    },
+    {
+      "quantity": 24,
+      "name": "Apontador Simples",
+      "price": 4.0
+    },
+    {
+      "quantity": 3,
+      "name": "Planner H. Potter",
+      "price": 34.0
+    },
+    {
+      "quantity": 3,
+      "name": "Pincel Compactor 6 Cores Pastel",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "20.00",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Pincel Neo Pen c 12 Cores Fino Compactor",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "28.00",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Lapiseira 2.00mm",
+      "price": 20.0
+    },
+    {
+      "quantity": 4,
+      "name": "Corretivo",
+      "price": 10.0
+    },
+    {
+      "quantity": 100,
+      "name": "Folhas Cartolina",
+      "price": 3.5
+    },
+    {
+      "quantity": 48,
+      "name": "Bloco Adesivo Hello Kitty",
+      "price": 7.0
+    },
+    {
+      "quantity": 6,
+      "name": "Bloco Adesivo Hello Kitty c 4 modelos",
+      "price": 20.0
+    },
+    {
+      "quantity": 5,
+      "name": "Estojo Tubo Sonic",
+      "price": 23.0
+    },
+    {
+      "quantity": 3,
+      "name": "Estojo Tubo Hello Kitty",
+      "price": 23.0
+    },
+    {
+      "quantity": 2,
+      "name": "Estojo Retrô My Melody",
+      "price": 75.0
+    },
+    {
+      "quantity": 2,
+      "name": "Estojo Retrô Kuromi",
+      "price": 75.0
+    },
+    {
+      "quantity": 2,
+      "name": "Estojo Retrô Cinnamorol",
+      "price": 75.0
+    },
+    {
+      "quantity": 4,
+      "name": "Mini Mochila Cinnamorol",
+      "price": 60.0
+    },
+    {
+      "quantity": 20,
+      "name": "Borracha Mini Hello Kitty",
+      "price": 8.0
+    },
+    {
+      "quantity": 3,
+      "name": "Pote Sonic",
+      "price": 25.0
+    },
+    {
+      "quantity": 72,
+      "name": "Lapis HB Leo e Leo",
+      "price": 3.0
+    },
+    {
+      "quantity": 24,
+      "name": "Borracha Pastel Leo e Leo",
+      "price": 4.5
+    },
+    {
+      "quantity": 24,
+      "name": "Lapiseira Recarregavel",
+      "price": 8.5
+    },
+    {
+      "quantity": 12,
+      "name": "Cola Bastão Leo e Leo",
+      "price": 7.0
+    },
+    {
+      "quantity": 3,
+      "name": "Potes Organiz. Sonic",
+      "price": 22.0
+    },
+    {
+      "quantity": 24,
+      "name": "Caneta Wave Colorida 1.0",
+      "price": 8.4
+    },
+    {
+      "quantity": 4,
+      "name": "Apont. Casa Hello Kitty",
+      "price": 20.0
+    },
+    {
+      "quantity": 30,
+      "name": "Lapis Fini Borracha",
+      "price": 10.0
+    },
+    {
+      "quantity": 1,
+      "name": "Marca Texto Fini",
+      "price": 34.5
+    },
+    {
+      "quantity": 8,
+      "name": "Marca Texto Fini c Chaveiro",
+      "price": 16.0
+    },
+    {
+      "quantity": 12,
+      "name": "Kit Borracha Fini",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "200F Papel Almaço",
+      "price": 0.5
+    },
+    {
+      "quantity": 5,
+      "name": "Potes Hello Kitty",
+      "price": 25.0
+    },
+    {
+      "quantity": 5,
+      "name": "Chaveiro Metal",
+      "price": 28.0
+    },
+    {
+      "quantity": 2,
+      "name": "Lanterna Espaço",
+      "price": 70.0
+    },
+    {
+      "quantity": 6,
+      "name": "Kit Costura",
+      "price": 35.0
+    },
+    {
+      "quantity": 2,
+      "name": "Lip Balm",
+      "price": 48.0
+    },
+    {
+      "quantity": 2,
+      "name": "Apontadores",
+      "price": 18.75
+    },
+    {
+      "quantity": 4,
+      "name": "Apoio Telefone Mickey",
+      "price": 30.0
+    },
+    {
+      "quantity": 3,
+      "name": "Suporte carro Mickey",
+      "price": 87.0
+    },
+    {
+      "quantity": 11,
+      "name": "Grafite Troca Ponta Bolinha",
+      "price": 7.0
+    },
+    {
+      "quantity": 2,
+      "name": "kit Esponja",
+      "price": 75.0
+    },
+    {
+      "quantity": 8,
+      "name": "Cadernos Note Hello Kitty",
+      "price": 44.0
+    },
+    {
+      "quantity": 3,
+      "name": "Cola Bastão My Melody",
+      "price": 20.0
+    },
+    {
+      "quantity": 5,
+      "name": "Cola Bastão Hello Kitty",
+      "price": 20.0
+    },
+    {
+      "quantity": 3,
+      "name": "Cola Bastão kuromi",
+      "price": 20.0
+    },
+    {
+      "quantity": 7,
+      "name": "Cola Bastão Food",
+      "price": 20.0
+    },
+    {
+      "quantity": 3,
+      "name": "Calculadora 8 Digitos Acrilica",
+      "price": 50.0
+    },
+    {
+      "quantity": 9,
+      "name": "Caderno Intelig Divertidamente",
+      "price": 84.0
+    },
+    {
+      "quantity": 6,
+      "name": "Caneta Luxo Kuromi",
+      "price": 20.0
+    },
+    {
+      "quantity": 6,
+      "name": "Caneta Luxo Clicker Sanrio",
+      "price": 20.0
+    },
+    {
+      "quantity": 5,
+      "name": "Caneta Esf Clicker Apaga Sanrio",
+      "price": 18.0
+    },
+    {
+      "quantity": 6,
+      "name": "Caneta Esfer Clicker Apaga Des Sanrio",
+      "price": 18.0
+    },
+    {
+      "quantity": 3,
+      "name": "Caneta Esfer Clicker My Melody",
+      "price": 18.0
+    },
+    {
+      "quantity": 1,
+      "name": "Caneta Esfer Clicker Metal Hello Kitty",
+      "price": 18.0
+    },
+    {
+      "quantity": 8,
+      "name": "Caneta 3 Cores  Divertidamente",
+      "price": 18.0
+    },
+    {
+      "quantity": 9,
+      "name": "Caneta com Led Divertidamente",
+      "price": 18.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Gel Divertidamente",
+      "price": 10.0
+    },
+    {
+      "quantity": 35,
+      "name": "Caneta Gel Divert. Personag",
+      "price": 13.0
+    },
+    {
+      "quantity": 23,
+      "name": "Caneta Sorvete Divertidamente",
+      "price": 20.0
+    },
+    {
+      "quantity": 13,
+      "name": "Caneta Divertidamente 8 Cores",
+      "price": 20.0
+    },
+    {
+      "quantity": 12,
+      "name": "Chaveiro Divertidamente",
+      "price": 22.0
+    },
+    {
+      "quantity": 1,
+      "name": "12Caneta Bola Colorida",
+      "price": 9.0
+    },
+    {
+      "quantity": 8,
+      "name": "Mini Bloco Capivara",
+      "price": 10.0
+    },
+    {
+      "quantity": 8,
+      "name": "Mini Bloco Sanrio",
+      "price": 10.0
+    },
+    {
+      "quantity": 1,
+      "name": "3Grampeador Espaço",
+      "price": 20.0
+    },
+    {
+      "quantity": 8,
+      "name": "Rolo Pintura",
+      "price": 35.0
+    },
+    {
+      "quantity": 1,
+      "name": "4Caderno Pintura Kuro",
+      "price": 60.0
+    },
+    {
+      "quantity": 16,
+      "name": "Whastape",
+      "price": 5.0
+    },
+    {
+      "quantity": 2,
+      "name": "Marca Texto Glitter",
+      "price": 45.0
+    },
+    {
+      "quantity": 10,
+      "name": "Canetas Cherry Hello Kitty",
+      "price": 20.0
+    },
+    {
+      "quantity": 6,
+      "name": "Caneta H. Aranha 6 Cores",
+      "price": 17.5
+    },
+    {
+      "quantity": 2,
+      "name": "Apontador H. Aranha",
+      "price": 0.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta 10 Cores Hello Kitty",
+      "price": 18.0
+    },
+    {
+      "quantity": 6,
+      "name": "Borracha Hello",
+      "price": 14.0
+    },
+    {
+      "quantity": 4,
+      "name": "Borracha Boneca",
+      "price": 14.0
+    },
+    {
+      "quantity": 4,
+      "name": "Estojo Silicone Sanrio",
+      "price": 70.0
+    },
+    {
+      "quantity": 9,
+      "name": "Tesoura cor Pastel",
+      "price": 10.0
+    },
+    {
+      "quantity": 2,
+      "name": "Tesoura Grande",
+      "price": 40.0
+    },
+    {
+      "quantity": 4,
+      "name": "Tesoura Hello Kitty",
+      "price": 21.0
+    },
+    {
+      "quantity": 11,
+      "name": "Caneta Apagavel Colorida Azul",
+      "price": 12.0
+    },
+    {
+      "quantity": 3,
+      "name": "Agenda Hello Kitty",
+      "price": 40.0
+    },
+    {
+      "quantity": 6,
+      "name": "Borracha Lotso",
+      "price": 17.0
+    },
+    {
+      "quantity": 3,
+      "name": "kit Borracha Quadrada Donuts",
+      "price": 25.0
+    },
+    {
+      "quantity": 3,
+      "name": "Kit Borracha Quadrada Princesa",
+      "price": 25.0
+    },
+    {
+      "quantity": 10,
+      "name": "Kit Borracha Cabeça Lotso",
+      "price": 35.0
+    },
+    {
+      "quantity": 4,
+      "name": "kit Borracha Cabeça Stitch",
+      "price": 35.0
+    },
+    {
+      "quantity": 3,
+      "name": "Kit Borracha Cabeça Sanrio",
+      "price": 35.0
+    },
+    {
+      "quantity": 5,
+      "name": "Estilete Pata",
+      "price": 15.0
+    },
+    {
+      "quantity": 1,
+      "name": "Agenda Unic. 2025",
+      "price": 70.0
+    },
+    {
+      "quantity": 1,
+      "name": "Agenda Cute Cat",
+      "price": 70.0
+    },
+    {
+      "quantity": 1,
+      "name": "Agenda Pata de Gato",
+      "price": 70.0
+    },
+    {
+      "quantity": 5,
+      "name": "Borracha Pata",
+      "price": 12.0
+    },
+    {
+      "quantity": 3,
+      "name": "Réguas Boneca e Gato",
+      "price": 15.0
+    },
+    {
+      "quantity": 5,
+      "name": "Borracha Capivara",
+      "price": 5.0
+    },
+    {
+      "quantity": 11,
+      "name": "Caneta em Gel Bolinha Color",
+      "price": 9.0
+    },
+    {
+      "quantity": 9,
+      "name": "Caderno Inteligente",
+      "price": 84.0
+    },
+    {
+      "quantity": 7,
+      "name": "Mini Bloco Sanrio c Espiral",
+      "price": 25.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Colorir 12 Cores",
+      "price": 20.0
+    },
+    {
+      "quantity": 3,
+      "name": "Caneta Super Heroi",
+      "price": 18.0
+    },
+    {
+      "quantity": 8,
+      "name": "Caneta Luxo Dino",
+      "price": 20.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Dino Led",
+      "price": 18.0
+    },
+    {
+      "quantity": 3,
+      "name": "Estojo Box Retrô Espaço Azul",
+      "price": 70.0
+    },
+    {
+      "quantity": 1,
+      "name": "Estojo Box Retrô Espaço Rosa",
+      "price": 70.0
+    },
+    {
+      "quantity": 4,
+      "name": "Cola Branca líquida Max Cola 40g",
+      "price": 6.0
+    },
+    {
+      "quantity": 12,
+      "name": "Cola Bastao Leo e Leo",
+      "price": 0.0
+    },
+    {
+      "quantity": 5,
+      "name": "Cadernos Felpufos",
+      "price": 70.0
+    },
+    {
+      "quantity": 4,
+      "name": "Mini Mochila Stitch",
+      "price": 75.0
+    },
+    {
+      "quantity": 13,
+      "name": "Caneta Pena Stitch",
+      "price": 24.0
+    },
+    {
+      "quantity": 5,
+      "name": "Caneta Stitch Preta Varias C",
+      "price": 18.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Stitch Gel 0.5 Fininha",
+      "price": 13.0
+    },
+    {
+      "quantity": 6,
+      "name": "Caneta Stitch Gel 0.5 Metaliza",
+      "price": 18.0
+    },
+    {
+      "quantity": 3,
+      "name": "Guache c 6 Cores 15 ml Dac",
+      "price": 13.0
+    },
+    {
+      "quantity": 8,
+      "name": "Estojo c divisor Leo e Leo",
+      "price": 25.0
+    },
+    {
+      "quantity": 3,
+      "name": "Copo c Gancho 350 ml Hello Kitty",
+      "price": 22.0
+    },
+    {
+      "quantity": 5,
+      "name": "Impressoras Portable Mini Printer",
+      "price": 210.0
+    },
+    {
+      "quantity": 2,
+      "name": "Impressora Portable Mini Dino",
+      "price": 210.0
+    },
+    {
+      "quantity": 4,
+      "name": "Prancheta",
+      "price": 35.0
+    },
+    {
+      "quantity": 6,
+      "name": "Prancheta Capivara",
+      "price": 50.0
+    },
+    {
+      "quantity": 4,
+      "name": "Cola Branca Liq 40g Maxi Cola",
+      "price": 6.0
+    },
+    {
+      "quantity": 15,
+      "name": "Apontador My Melody",
+      "price": 20.0
+    },
+    {
+      "quantity": 24,
+      "name": "Apontador Sanrio",
+      "price": 20.0
+    },
+    {
+      "quantity": 4,
+      "name": "Corretivo Kuromi",
+      "price": 30.0
+    },
+    {
+      "quantity": 3,
+      "name": "Corretivo Tape My Melody",
+      "price": 10.0
+    },
+    {
+      "quantity": 3,
+      "name": "Corretivo Tape Hello Kitty  Peq",
+      "price": 10.0
+    },
+    {
+      "quantity": 12,
+      "name": "Corretivo Tape H. Kitty",
+      "price": 15.0
+    },
+    {
+      "quantity": 7,
+      "name": "Corretivo Hello Kitty",
+      "price": 30.0
+    },
+    {
+      "quantity": 1,
+      "name": "Kit c 10 Carimbos My Melody",
+      "price": 50.0
+    },
+    {
+      "quantity": 1,
+      "name": "2Carimbo My Melody",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "1Carimbo Sapo",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "2Carimbo Cinamorol",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "2Carimbo Kuromi",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "2Carimbo Pudim",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "2Carimbo Hello Kitty",
+      "price": 20.0
+    },
+    {
+      "quantity": 1,
+      "name": "1Kit Adesivo My Melody",
+      "price": 40.0
+    },
+    {
+      "quantity": 2,
+      "name": "kit Adesivo kuromi",
+      "price": 40.0
+    },
+    {
+      "quantity": 1,
+      "name": "kit Adesivo Cinnamorol",
+      "price": 40.0
+    },
+    {
+      "quantity": 4,
+      "name": "Carimbos kuromi",
+      "price": 30.0
+    },
+    {
+      "quantity": 3,
+      "name": "Carimbo Rolo",
+      "price": 25.0
+    },
+    {
+      "quantity": 2,
+      "name": "Porta Moeda Hello Kitty",
+      "price": 60.0
+    },
+    {
+      "quantity": 2,
+      "name": "Pincel Hello Kitty",
+      "price": 60.0
+    },
+    {
+      "quantity": 1,
+      "name": "Porta Acessorio Hello Kitty",
+      "price": 75.0
+    },
+    {
+      "quantity": 2,
+      "name": "Apontadores Peão",
+      "price": 20.0
+    },
+    {
+      "quantity": 1,
+      "name": "Apontador Rosa",
+      "price": 20.0
+    },
+    {
+      "quantity": 4,
+      "name": "Apontador Sanrio Casinha",
+      "price": 23.0
+    },
+    {
+      "quantity": 1,
+      "name": "FingerBoard Hello Kitty",
+      "price": 50.0
+    },
+    {
+      "quantity": 3,
+      "name": "Cadernos Espi Velcro Sanrio",
+      "price": 70.0
+    },
+    {
+      "quantity": 4,
+      "name": "Lapis de Cor 6 Cores Neon brw",
+      "price": 22.0
+    },
+    {
+      "quantity": 12,
+      "name": "Marcador de Texto Espaço c Glitter 10.00 cada",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Kit Saleiro Mickey",
+      "price": 40.0
+    },
+    {
+      "quantity": 1,
+      "name": "Kit c 12 Lapiseiras Shiny Color",
+      "price": 35.0
+    },
+    {
+      "quantity": 2,
+      "name": "Canetinha 12 Cores Neo Pen Gigante Compactor",
+      "price": 28.0
+    },
+    {
+      "quantity": 5,
+      "name": "Cader Cardeal Fashion 10M 140F",
+      "price": 42.0
+    },
+    {
+      "quantity": 10,
+      "name": "Cader DesJandainha 80F",
+      "price": 25.0
+    },
+    {
+      "quantity": 3,
+      "name": "Cadernp Cardeal Pastel 12M 168F",
+      "price": 42.0
+    },
+    {
+      "quantity": 10,
+      "name": "Caderno Brochurão Credeal Turma da Lala 60F",
+      "price": 9.3
+    },
+    {
+      "quantity": 24,
+      "name": "Caneta Esfer.Wave 1.0",
+      "price": 7.0
+    },
+    {
+      "quantity": 22,
+      "name": "Grafite Tris 0.7mm",
+      "price": 9.0
+    },
+    {
+      "quantity": 23,
+      "name": "Caneta Esfer. Wave 1.0 Mini",
+      "price": 3.5
+    },
+    {
+      "quantity": 9,
+      "name": "Caderno Inteligente Divertidamente",
+      "price": 84.0
+    },
+    {
+      "quantity": 1,
+      "name": "Caderno Inteligente Branco",
+      "price": 100.0
+    },
+    {
+      "quantity": 10,
+      "name": "Caderno Brochurão Capa Dura 80 F",
+      "price": 14.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caneta 6 Cores BTS",
+      "price": 18.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caneta 4 Cores BTS",
+      "price": 17.0
+    },
+    {
+      "quantity": 6,
+      "name": "Caneta 9 Cores BTS",
+      "price": 20.0
+    },
+    {
+      "quantity": 10,
+      "name": "Corretivo BTS",
+      "price": 10.0
+    },
+    {
+      "quantity": 10,
+      "name": "Canetas Esfer BTS",
+      "price": 20.0
+    },
+    {
+      "quantity": 6,
+      "name": "Caneta Super Herói",
+      "price": 18.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caneta Esfer. Apagável Flut",
+      "price": 17.0
+    },
+    {
+      "quantity": 9,
+      "name": "Marcador de Texto Stitch",
+      "price": 10.0
+    },
+    {
+      "quantity": 1,
+      "name": "11Marcador de Texto Hello Kitty",
+      "price": 10.0
+    },
+    {
+      "quantity": 9,
+      "name": "Marc. Texto Hello Kitty Bola",
+      "price": 40.0
+    },
+    {
+      "quantity": 12,
+      "name": "Marcador de Texto Pata",
+      "price": 10.0
+    },
+    {
+      "quantity": 12,
+      "name": "Marcador de Texto Ifood",
+      "price": 10.0
+    },
+    {
+      "quantity": 6,
+      "name": "Apontador Ifood",
+      "price": 0.0
+    },
+    {
+      "quantity": 12,
+      "name": "Canetas Ifood em Gel Preta",
+      "price": 13.0
+    },
+    {
+      "quantity": 5,
+      "name": "Marcador de Texto Dinossa",
+      "price": 10.0
+    },
+    {
+      "quantity": 6,
+      "name": "Marcador de Texto Hello Kitty Sanrio",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "10.00",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Escova Hello Kitty",
+      "price": 70.0
+    },
+    {
+      "quantity": 2,
+      "name": "Tapete My Melody",
+      "price": 230.0
+    },
+    {
+      "quantity": 2,
+      "name": "Sandalias My Melody",
+      "price": 132.0
+    },
+    {
+      "quantity": 1,
+      "name": "Tapete Cinnamorol",
+      "price": 230.0
+    },
+    {
+      "quantity": 1,
+      "name": "Bolsa Kuromi",
+      "price": 80.0
+    },
+    {
+      "quantity": 1,
+      "name": "Bolsa Hello Kitty",
+      "price": 80.0
+    },
+    {
+      "quantity": 5,
+      "name": "Fita Metrica Hello Kitty",
+      "price": 28.0
+    },
+    {
+      "quantity": 1,
+      "name": "Estojo Hello Kitty Branco",
+      "price": 85.0
+    },
+    {
+      "quantity": 1,
+      "name": "Estojo Hello Kitty Corino Ro",
+      "price": 90.0
+    },
+    {
+      "quantity": 2,
+      "name": "Bolsa My Melody",
+      "price": 150.0
+    },
+    {
+      "quantity": 3,
+      "name": "Caneta My Melody",
+      "price": 21.0
+    },
+    {
+      "quantity": 1,
+      "name": "1Gancho Hello Kitty",
+      "price": 50.0
+    },
+    {
+      "quantity": 1,
+      "name": "Carteira Hello Kitty",
+      "price": 70.0
+    },
+    {
+      "quantity": 4,
+      "name": "Enfeite Sanrio Carro",
+      "price": 50.0
+    },
+    {
+      "quantity": 0,
+      "name": "Projetor Hello Kitty",
+      "price": 250.0
+    },
+    {
+      "quantity": 3,
+      "name": "Porta Cartao Hello Kitty",
+      "price": 45.5
+    },
+    {
+      "quantity": 1,
+      "name": "Bolsa Termica My Melody",
+      "price": 140.0
+    },
+    {
+      "quantity": 1,
+      "name": "Maleta Portatil",
+      "price": 260.0
+    },
+    {
+      "quantity": 1,
+      "name": "Relogio Preto Hello Kitty",
+      "price": 125.3
+    },
+    {
+      "quantity": 0,
+      "name": "Relogio Branco Hello Kitty",
+      "price": 150.0
+    },
+    {
+      "quantity": 4,
+      "name": "Mini Borracha Ifood Leo e Leo",
+      "price": 19.0
+    },
+    {
+      "quantity": 4,
+      "name": "Papel Jandaia",
+      "price": 13.0
+    },
+    {
+      "quantity": 11,
+      "name": "Lapis de Cor Hexa",
+      "price": 15.0
+    },
+    {
+      "quantity": 2,
+      "name": "Resma A4",
+      "price": 50.0
+    },
+    {
+      "quantity": 10,
+      "name": "Emborrachado",
+      "price": 8.04
+    },
+    {
+      "quantity": 100,
+      "name": "Cartolina",
+      "price": 3.5
+    },
+    {
+      "quantity": 50,
+      "name": "Caneta Vermelha Compactor",
+      "price": 4.0
+    },
+    {
+      "quantity": 50,
+      "name": "Caneta Preta Compactor",
+      "price": 4.0
+    },
+    {
+      "quantity": 50,
+      "name": "Caneta Azul Compactor",
+      "price": 4.0
+    },
+    {
+      "quantity": 3,
+      "name": "Caneta Esfer Compactor Jet Lux 4 cores",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "20.00",
+      "price": 0.0
+    },
+    {
+      "quantity": 8,
+      "name": "Estojo Box Divertidamente",
+      "price": 89.0
+    },
+    {
+      "quantity": 3,
+      "name": "Estojo Box Carros",
+      "price": 89.0
+    },
+    {
+      "quantity": 5,
+      "name": "Borracha Hello Kitty Big",
+      "price": 50.0
+    },
+    {
+      "quantity": 6,
+      "name": "Canetas Apagavel Clicker Hello Kitty",
+      "price": 20.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Gel My Melody",
+      "price": 13.0
+    },
+    {
+      "quantity": 6,
+      "name": "Mini Bloco Prancheta",
+      "price": 17.0
+    },
+    {
+      "quantity": 9,
+      "name": "Cola Bastão Lotso",
+      "price": 20.0
+    },
+    {
+      "quantity": 12,
+      "name": "Réguas  Capivara de 15 cm",
+      "price": 19.5
+    },
+    {
+      "quantity": 6,
+      "name": "Canetas c 07 Cores H. Aranha",
+      "price": 0.0
+    },
+    {
+      "quantity": 5,
+      "name": "Prancheta Mini",
+      "price": 17.0
+    },
+    {
+      "quantity": 3,
+      "name": "Calculadora Hello Kitty Rosa",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Calculadora Hello Kitty Azul",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Hello Kitty Apple Collection",
+      "price": 38.0
+    },
+    {
+      "quantity": 2,
+      "name": "Garrafa Hello Kitty",
+      "price": 85.0
+    },
+    {
+      "quantity": 1,
+      "name": "Chaveiro My Melody Sorvete",
+      "price": 100.0
+    },
+    {
+      "quantity": 1,
+      "name": "Chaveiro My Melody Dream",
+      "price": 100.0
+    },
+    {
+      "quantity": 1,
+      "name": "kit Mochila My Melody",
+      "price": 330.0
+    },
+    {
+      "quantity": 1,
+      "name": "Chaveiro Kuromi",
+      "price": 100.0
+    },
+    {
+      "quantity": 10,
+      "name": "Chaveiro Mini Hello Kitty c Led",
+      "price": 20.0
+    },
+    {
+      "quantity": 8,
+      "name": "Chaveiro Bloco",
+      "price": 20.0
+    },
+    {
+      "quantity": 14,
+      "name": "Laços Mickey",
+      "price": 10.0
+    },
+    {
+      "quantity": 3,
+      "name": "Pares Laços Hello Kitty",
+      "price": 50.0
+    },
+    {
+      "quantity": 2,
+      "name": "Flatware Hello Kitty",
+      "price": 140.0
+    },
+    {
+      "quantity": 3,
+      "name": "Flatware Sanrio",
+      "price": 140.0
+    },
+    {
+      "quantity": 1,
+      "name": "Pelúcia Hello Kitty",
+      "price": 165.0
+    },
+    {
+      "quantity": 2,
+      "name": "Pelúcia kuromi",
+      "price": 165.0
+    },
+    {
+      "quantity": 5,
+      "name": "Limpeza Facial Kuromi",
+      "price": 43.0
+    },
+    {
+      "quantity": 3,
+      "name": "Cordoes Hello Kitty",
+      "price": 42.0
+    },
+    {
+      "quantity": 2,
+      "name": "Lousa Magica 8.5\"",
+      "price": 21.0
+    },
+    {
+      "quantity": 2,
+      "name": "Lousa Magica 10\"",
+      "price": 36.0
+    },
+    {
+      "quantity": 2,
+      "name": "Lousa Magica 12\"",
+      "price": 42.0
+    },
+    {
+      "quantity": 2,
+      "name": "Depilador Nasal",
+      "price": 73.0
+    },
+    {
+      "quantity": 2,
+      "name": "Removedor Cravo",
+      "price": 73.0
+    },
+    {
+      "quantity": 3,
+      "name": "Aspirador Carro",
+      "price": 73.0
+    },
+    {
+      "quantity": 6,
+      "name": "Forma Silicone",
+      "price": 25.0
+    },
+    {
+      "quantity": 4,
+      "name": "Suporte Carro",
+      "price": 35.0
+    },
+    {
+      "quantity": 2,
+      "name": "Porta Joia",
+      "price": 30.0
+    },
+    {
+      "quantity": 2,
+      "name": "Caixa Karaoke",
+      "price": 100.0
+    },
+    {
+      "quantity": 4,
+      "name": "Garrafa Termica c Led",
+      "price": 75.0
+    },
+    {
+      "quantity": 2,
+      "name": "Maquina Costura Portatil",
+      "price": 245.0
+    },
+    {
+      "quantity": 2,
+      "name": "Power Bank",
+      "price": 80.0
+    },
+    {
+      "quantity": 2,
+      "name": "Kit Pincel",
+      "price": 30.0
+    },
+    {
+      "quantity": 4,
+      "name": "Leque My Melody",
+      "price": 20.0
+    },
+    {
+      "quantity": 3,
+      "name": "Leque kuromi",
+      "price": 20.0
+    },
+    {
+      "quantity": 4,
+      "name": "Leque Cinnamorol",
+      "price": 20.0
+    },
+    {
+      "quantity": 3,
+      "name": "Leque Pum pum",
+      "price": 20.0
+    },
+    {
+      "quantity": 11,
+      "name": "Cadeado Sanrio",
+      "price": 28.0
+    },
+    {
+      "quantity": 4,
+      "name": "Cadeado Gato",
+      "price": 28.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Gel Hello Kitty Azul",
+      "price": 13.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Gel My Melody",
+      "price": 13.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Gel Kuromi",
+      "price": 13.0
+    },
+    {
+      "quantity": 2,
+      "name": "Presilha Infantil",
+      "price": 20.0
+    },
+    {
+      "quantity": 2,
+      "name": "Marcador Unicornio",
+      "price": 40.0
+    },
+    {
+      "quantity": 4,
+      "name": "Apontador Dino",
+      "price": 12.0
+    },
+    {
+      "quantity": 2,
+      "name": "Apontador Dino Depos",
+      "price": 14.0
+    },
+    {
+      "quantity": 2,
+      "name": "Perfume Carro Hello Kitty",
+      "price": 25.0
+    },
+    {
+      "quantity": 3,
+      "name": "Kit c 12 Canetinhad Colo Urso",
+      "price": 35.0
+    },
+    {
+      "quantity": 6,
+      "name": "Caneta 10 Cores Urso.    ?",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Caneta Hidrog 6 cores Jumbo",
+      "price": 14.0
+    },
+    {
+      "quantity": 11,
+      "name": "Marca Texto Apagável",
+      "price": 13.8
+    },
+    {
+      "quantity": 4,
+      "name": "Estojo Carinha Stitch",
+      "price": 135.0
+    },
+    {
+      "quantity": 4,
+      "name": "Estojo Fluffly Pooh",
+      "price": 139.0
+    },
+    {
+      "quantity": 4,
+      "name": "Estojo Fluffly Stitch",
+      "price": 139.0
+    },
+    {
+      "quantity": 4,
+      "name": "Estojo Magic",
+      "price": 110.0
+    },
+    {
+      "quantity": 4,
+      "name": "Estojo Enjoy",
+      "price": 39.0
+    },
+    {
+      "quantity": 4,
+      "name": "Estojo c Elastico Pooh",
+      "price": 45.0
+    },
+    {
+      "quantity": 4,
+      "name": "Agenda Mini Pooh",
+      "price": 75.0
+    },
+    {
+      "quantity": 4,
+      "name": "Estojo c Elastico Stitch",
+      "price": 45.0
+    },
+    {
+      "quantity": 10,
+      "name": "Pasta c Aba elástica Mickey",
+      "price": 23.0
+    },
+    {
+      "quantity": 3,
+      "name": "Fichario Colegial Stitch 192f Coleção Nova",
+      "price": 216.0
+    },
+    {
+      "quantity": 4,
+      "name": "Fichario Colegial Argolado Pooh 144f",
+      "price": 177.0
+    },
+    {
+      "quantity": 4,
+      "name": "Fichario Univers. Pooh 192f (Nova coleção) DAC",
+      "price": 218.0
+    },
+    {
+      "quantity": 4,
+      "name": "Fichario Univers. Snoopy  DAC",
+      "price": 218.0
+    },
+    {
+      "quantity": 4,
+      "name": "Fichario Univers. Bob Esponja DAC",
+      "price": 218.0
+    },
+    {
+      "quantity": 4,
+      "name": "Fichario Univers. Argolado Enjoy 48f DAC",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "147.OO",
+      "price": 0.0
+    },
+    {
+      "quantity": 4,
+      "name": "Fichario Univers. Argolado Snoopy 48f DAC",
+      "price": 147.0
+    },
+    {
+      "quantity": 4,
+      "name": "Mini Fichario Argolado c Fichas Snoopy 80f DAC",
+      "price": 83.0
+    },
+    {
+      "quantity": 4,
+      "name": "Mini Fichario Argolado c Fichas Bob Esponja 80f DAC",
+      "price": 83.0
+    },
+    {
+      "quantity": 1,
+      "name": "Caderno Smart Univer Troca Folhas q",
+      "price": 0.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caderno Smart Univ Vision Azul Serenity DAC",
+      "price": 84.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caderno Smart Univ Vision Rosa Bebê DAC",
+      "price": 84.0
+    },
+    {
+      "quantity": 4,
+      "name": "Smart Univ Bob Esponja",
+      "price": 119.0
+    },
+    {
+      "quantity": 8,
+      "name": "Smart Univ Mickey",
+      "price": 119.0
+    },
+    {
+      "quantity": 4,
+      "name": "Smart Univ Divertidamente 80f ( Troca Folha)",
+      "price": 119.0
+    },
+    {
+      "quantity": 4,
+      "name": "Smart Univ Hello",
+      "price": 100.0
+    },
+    {
+      "quantity": 1,
+      "name": "Caderno Smart Colegial",
+      "price": 0.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caderno Smart Colegial Hello 80f DAC",
+      "price": 82.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caderno Smart Colegial Pooh",
+      "price": 83.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caderno Smart Colegial Mickey",
+      "price": 83.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caderno Smart Colegial Minnie",
+      "price": 83.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caderno Smart Colegial Divertidamente",
+      "price": 99.0
+    },
+    {
+      "quantity": 1,
+      "name": "Mini Caderno",
+      "price": 0.0
+    },
+    {
+      "quantity": 4,
+      "name": "Mini Caderno Smart Pooh 80f Reposicionaveis e divisórias DAC",
+      "price": 97.0
+    },
+    {
+      "quantity": 4,
+      "name": "Mini Caderno Smart Snoopy 80f Reposicionaveis e divisórias  DAC",
+      "price": 97.0
+    },
+    {
+      "quantity": 1,
+      "name": "Mini Fichario",
+      "price": 0.0
+    },
+    {
+      "quantity": 4,
+      "name": "Mini Fichario Smart Pooh",
+      "price": 46.0
+    },
+    {
+      "quantity": 4,
+      "name": "Mini Fichario Smart Mickey",
+      "price": 46.0
+    },
+    {
+      "quantity": 10,
+      "name": "Guarda-chuva Stitch",
+      "price": 97.0
+    },
+    {
+      "quantity": 10,
+      "name": "Estojo Box Hello Kitty com Relevo",
+      "price": 140.0
+    },
+    {
+      "quantity": 5,
+      "name": "Estojo Box Stitch c Relevo 50 pens",
+      "price": 89.0
+    },
+    {
+      "quantity": 5,
+      "name": "Estojo Box Capivara c Relevo",
+      "price": 89.0
+    },
+    {
+      "quantity": 3,
+      "name": "Estojo Box Mário",
+      "price": 89.0
+    },
+    {
+      "quantity": 3,
+      "name": "Estojo Box H. Aranha",
+      "price": 89.0
+    },
+    {
+      "quantity": 3,
+      "name": "Estojo Box  H. Ferro",
+      "price": 89.0
+    },
+    {
+      "quantity": 2,
+      "name": "Apontador H. Ferro",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Estojo Box C. América",
+      "price": 89.0
+    },
+    {
+      "quantity": 2,
+      "name": "Apontador C. América",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Fone Head Unicornio",
+      "price": 117.0
+    },
+    {
+      "quantity": 5,
+      "name": "Luminárias Clip",
+      "price": 38.0
+    },
+    {
+      "quantity": 6,
+      "name": "Marca Texto Sorvete",
+      "price": 35.0
+    },
+    {
+      "quantity": 11,
+      "name": "Borracha Hello Kitty Lápis",
+      "price": 17.0
+    },
+    {
+      "quantity": 12,
+      "name": "Lapis Infinito Metal Capivara",
+      "price": 14.0
+    },
+    {
+      "quantity": 6,
+      "name": "Caderno Capa Couro Harry Potter",
+      "price": 100.0
+    },
+    {
+      "quantity": 4,
+      "name": "Mini Caderno C Dura Harry Potter",
+      "price": 98.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caderno Luxo Capivara",
+      "price": 100.0
+    },
+    {
+      "quantity": 5,
+      "name": "Caderno Pelúcia Hello Kitty",
+      "price": 87.5
+    },
+    {
+      "quantity": 10,
+      "name": "Caderno c Div Hello Kitty",
+      "price": 100.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caderno c Div Liga Justiça",
+      "price": 100.0
+    },
+    {
+      "quantity": 12,
+      "name": "Corretivo Stitch",
+      "price": 23.0
+    },
+    {
+      "quantity": 12,
+      "name": "Funkos",
+      "price": 130.0
+    },
+    {
+      "quantity": 12,
+      "name": "Corretivo Peq Hello Kitty",
+      "price": 0.0
+    },
+    {
+      "quantity": 5,
+      "name": "Luminária Clip",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Conjunto de 8 Pincéis c Carimbo",
+      "price": 70.0
+    },
+    {
+      "quantity": 3,
+      "name": "Fichario Sianrio",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Fichario Boneca",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Aquarela Cinnamorol",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Aquarela Kuromi",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Aquarela  My Melody",
+      "price": 0.0
+    },
+    {
+      "quantity": 4,
+      "name": "Compasso Capivara",
+      "price": 20.0
+    },
+    {
+      "quantity": 6,
+      "name": "Borracha Capivara",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Borrachas Mickey",
+      "price": 17.0
+    },
+    {
+      "quantity": 2,
+      "name": "Borracha  Minnie",
+      "price": 17.0
+    },
+    {
+      "quantity": 3,
+      "name": "potes Bob",
+      "price": 0.0
+    },
+    {
+      "quantity": 6,
+      "name": "Marcadores Espaço",
+      "price": 0.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Pelucia Stitch",
+      "price": 22.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta  Click Cabeça Stitch",
+      "price": 15.0
+    },
+    {
+      "quantity": 4,
+      "name": "Grampeador Stitch",
+      "price": 87.0
+    },
+    {
+      "quantity": 3,
+      "name": "Sacola Stitch",
+      "price": 0.0
+    },
+    {
+      "quantity": 4,
+      "name": "Grampeador Hello Kitty",
+      "price": 87.0
+    },
+    {
+      "quantity": 2,
+      "name": "Grampeador Kuromi",
+      "price": 87.0
+    },
+    {
+      "quantity": 28,
+      "name": "Caneta luxo Batom",
+      "price": 15.0
+    },
+    {
+      "quantity": 2,
+      "name": "Marca Texto Avenger",
+      "price": 10.0
+    },
+    {
+      "quantity": 1,
+      "name": "Marca Texto Mario",
+      "price": 10.0
+    },
+    {
+      "quantity": 1,
+      "name": "Estojo Mario",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Marca Texto My Melody",
+      "price": 40.0
+    },
+    {
+      "quantity": 2,
+      "name": "Marca Texto Kuromi",
+      "price": 40.0
+    },
+    {
+      "quantity": 3,
+      "name": "Rolo Adesivo Capivara",
+      "price": 10.0
+    },
+    {
+      "quantity": 1,
+      "name": "Rolo Adesivo",
+      "price": 10.0
+    },
+    {
+      "quantity": 2,
+      "name": "Mini Bloco Cinnamorol",
+      "price": 25.0
+    },
+    {
+      "quantity": 1,
+      "name": "Mini Bloco My Melody",
+      "price": 25.0
+    },
+    {
+      "quantity": 1,
+      "name": "Mini Bloco Pom",
+      "price": 25.0
+    },
+    {
+      "quantity": 1,
+      "name": "Mini Bloco kuromi",
+      "price": 25.0
+    },
+    {
+      "quantity": 2,
+      "name": "Borracha Monstro",
+      "price": 35.0
+    },
+    {
+      "quantity": 1,
+      "name": "01Borracha Foguete",
+      "price": 35.0
+    },
+    {
+      "quantity": 1,
+      "name": "Borracha Urso",
+      "price": 35.0
+    },
+    {
+      "quantity": 2,
+      "name": "Conj Pincéis c Carimbo",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Conj Marca Texto Neon",
+      "price": 25.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Apagavel Avenger",
+      "price": 15.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Click Avenger",
+      "price": 22.0
+    },
+    {
+      "quantity": 12,
+      "name": "Lapis Infinito Avenger",
+      "price": 18.0
+    },
+    {
+      "quantity": 12,
+      "name": "Lapis Infinito Pastel",
+      "price": 10.0
+    },
+    {
+      "quantity": 12,
+      "name": "Lapis Infinito Sanrio",
+      "price": 18.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Click Kuromi",
+      "price": 18.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Click Hello Kitty",
+      "price": 0.0
+    },
+    {
+      "quantity": 10,
+      "name": "Borracha Simples Lotso",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Borracha Bastão Boneca",
+      "price": 20.0
+    },
+    {
+      "quantity": 4,
+      "name": "Apontador Boneca",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Borracha Bastão Espaço",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Apontador  Espaço",
+      "price": 0.0
+    },
+    {
+      "quantity": 8,
+      "name": "Apontador Bob esponja",
+      "price": 0.0
+    },
+    {
+      "quantity": 5,
+      "name": "Apontador Sanrio",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Borracha Bastao Astronauta",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Borracha Bastão Lotso",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Borracha Bastão Dino",
+      "price": 20.0
+    },
+    {
+      "quantity": 4,
+      "name": "Cola Bastão Stitch",
+      "price": 0.0
+    },
+    {
+      "quantity": 4,
+      "name": "Chaveiro Harry Potter",
+      "price": 20.0
+    },
+    {
+      "quantity": 6,
+      "name": "Canetas 10 Cores Harry Potter",
+      "price": 30.0
+    },
+    {
+      "quantity": 6,
+      "name": "Clips p Papeis 2.0",
+      "price": 14.0
+    },
+    {
+      "quantity": 2,
+      "name": "Compasso c Grafite Kas",
+      "price": 18.0
+    },
+    {
+      "quantity": 1,
+      "name": "Compasso c Lapis Kas",
+      "price": 22.0
+    },
+    {
+      "quantity": 2,
+      "name": "Gizao de Cera Big Kas",
+      "price": 21.0
+    },
+    {
+      "quantity": 2,
+      "name": "Giz de Cera em Gel Metalico Kas",
+      "price": 40.0
+    },
+    {
+      "quantity": 2,
+      "name": "Giz de Cera em Gel Cor da Pele Kas 40",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Furador Kas",
+      "price": 44.0
+    },
+    {
+      "quantity": 2,
+      "name": "Fita Corretiva Dino",
+      "price": 42.0
+    },
+    {
+      "quantity": 2,
+      "name": "Marca Texto Fruit-tella",
+      "price": 40.0
+    },
+    {
+      "quantity": 2,
+      "name": "Conj Caneta Frut-tella",
+      "price": 23.0
+    },
+    {
+      "quantity": 5,
+      "name": "Borracha ice-cream Kas",
+      "price": 10.0
+    },
+    {
+      "quantity": 12,
+      "name": "Grafite  Unicornio 0.7 mm",
+      "price": 18.0
+    },
+    {
+      "quantity": 4,
+      "name": "Fita Dupla Face 12 mm x 2m",
+      "price": 13.0
+    },
+    {
+      "quantity": 12,
+      "name": "Pincel Marcador Permanente",
+      "price": 10.0
+    },
+    {
+      "quantity": 2,
+      "name": "Pincel Marcador Artistico Dual Point",
+      "price": 75.0
+    },
+    {
+      "quantity": 1,
+      "name": "Tesoura Urso 13 cm Kas",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Tesoura Tigre 13 cm kas",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Marcador Fineliner Mundo Rosa Fofy.  36",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Conj c 6 Caneta Esferografica Pastel 40",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Conj c 7 Caneta Esferografica Pastel 1.0 Ponta metálica tipo agulha",
+      "price": 40.0
+    },
+    {
+      "quantity": 2,
+      "name": "Conj De 15 Marcadores",
+      "price": 100.0
+    },
+    {
+      "quantity": 2,
+      "name": "Historias Biblicas",
+      "price": 35.0
+    },
+    {
+      "quantity": 3,
+      "name": "Conj Caneta Magica",
+      "price": 37.0
+    },
+    {
+      "quantity": 48,
+      "name": "Ponteira",
+      "price": 0.6
+    },
+    {
+      "quantity": 1,
+      "name": "Garrafa Harry Potter",
+      "price": 44.0
+    },
+    {
+      "quantity": 2,
+      "name": "Óculos Harry Potter",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Garrafa Bob Esponja Transparente",
+      "price": 52.0
+    },
+    {
+      "quantity": 1,
+      "name": "Garrafa Bob Esponja Amarela",
+      "price": 55.0
+    },
+    {
+      "quantity": 1,
+      "name": "Garrafa Kuromi",
+      "price": 45.5
+    },
+    {
+      "quantity": 1,
+      "name": "Garrafa Hello Kitty Branca",
+      "price": 45.5
+    },
+    {
+      "quantity": 1,
+      "name": "Garrafa Hello Kitty Rosa",
+      "price": 70.0
+    },
+    {
+      "quantity": 1,
+      "name": "Garrafa Snoopy",
+      "price": 30.0
+    },
+    {
+      "quantity": 5,
+      "name": "Mapa Magico",
+      "price": 17.0
+    },
+    {
+      "quantity": 6,
+      "name": "Dinheirinho",
+      "price": 10.0
+    },
+    {
+      "quantity": 3,
+      "name": "Livro Colorir Carros",
+      "price": 12.0
+    },
+    {
+      "quantity": 4,
+      "name": "Livro Colorir Moana",
+      "price": 12.0
+    },
+    {
+      "quantity": 3,
+      "name": "Pastas A4 Pastel",
+      "price": 17.0
+    },
+    {
+      "quantity": 5,
+      "name": "Cozy Circus",
+      "price": 35.0
+    },
+    {
+      "quantity": 5,
+      "name": "Sunny Days",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Cozy Time",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Comfy Days",
+      "price": 35.0
+    },
+    {
+      "quantity": 9,
+      "name": "Cute Buddies",
+      "price": 0.0
+    },
+    {
+      "quantity": 4,
+      "name": "Cute World",
+      "price": 35.0
+    },
+    {
+      "quantity": 4,
+      "name": "Ventiladores",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Fine Line",
+      "price": 0.0
+    },
+    {
+      "quantity": 30,
+      "name": "Rolos Impressora",
+      "price": 0.0
+    },
+    {
+      "quantity": 5,
+      "name": "Chaveiro Porta Objeto",
+      "price": 40.0
+    },
+    {
+      "quantity": 10,
+      "name": "Deposito Cenoura",
+      "price": 0.0
+    },
+    {
+      "quantity": 12,
+      "name": "Caneta Cenoura",
+      "price": 10.0
+    },
+    {
+      "quantity": 12,
+      "name": "Marca Texto Cenoura",
+      "price": 10.0
+    },
+    {
+      "quantity": 5,
+      "name": "Estilete Flor",
+      "price": 22.0
+    },
+    {
+      "quantity": 6,
+      "name": "Marca Texto Esporte",
+      "price": 10.0
+    },
+    {
+      "quantity": 12,
+      "name": "Estojo Transparente",
+      "price": 10.0
+    },
+    {
+      "quantity": 2,
+      "name": "Clip p Cabelo",
+      "price": 15.0
+    },
+    {
+      "quantity": 3,
+      "name": "Faixa p Cabelo",
+      "price": 15.0
+    },
+    {
+      "quantity": 3,
+      "name": "Fone de Ouvido Divertido",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Espelho Urso",
+      "price": 0.0
+    },
+    {
+      "quantity": 36,
+      "name": "Pares Brinco Diversos",
+      "price": 0.0
+    },
+    {
+      "quantity": 10,
+      "name": "Presilha Pom Pom",
+      "price": 15.0
+    },
+    {
+      "quantity": 4,
+      "name": "Presilha Adulto",
+      "price": 0.0
+    },
+    {
+      "quantity": 6,
+      "name": "Cartela Presilha Infantil",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Cartela Piranha Infantil",
+      "price": 0.0
+    },
+    {
+      "quantity": 12,
+      "name": "Cartela Presilha Laço.   30  ?",
+      "price": 0.0
+    },
+    {
+      "quantity": 12,
+      "name": "Faixas Recém Nascido. 65 ?",
+      "price": 0.0
+    },
+    {
+      "quantity": 12,
+      "name": "Corrente p Crachá.          15.00 ?",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Urso Cinza",
+      "price": 83.0
+    },
+    {
+      "quantity": 1,
+      "name": "Urso Creme",
+      "price": 83.0
+    },
+    {
+      "quantity": 2,
+      "name": "Urso Marrom.     91 ?",
+      "price": 0.0
+    },
+    {
+      "quantity": 4,
+      "name": "Cenoura Pelúcia.  38.5.  ?",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Chaveiro Coelho vestido.        31.00 ?",
+      "price": 0.0
+    },
+    {
+      "quantity": 4,
+      "name": "Chaveiro Coelho Creme",
+      "price": 21.3
+    },
+    {
+      "quantity": 4,
+      "name": "Chaveiro Coelho marrom",
+      "price": 21.3
+    },
+    {
+      "quantity": 4,
+      "name": "Chaveiro Coelho Rosa Claro",
+      "price": 21.3
+    },
+    {
+      "quantity": 1,
+      "name": "Chaveiro Coelho Creme  Claro",
+      "price": 21.3
+    },
+    {
+      "quantity": 3,
+      "name": "Chaveiro Coelho Pink",
+      "price": 21.3
+    },
+    {
+      "quantity": 3,
+      "name": "Coelho c Cenoura.                         60.00 ?",
+      "price": 0.0
+    },
+    {
+      "quantity": 3,
+      "name": "Pct Balão c 5 balões Color",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Pct Confete",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Rolo de fita 50 mPink",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Rolo de fita 50 m Verde Água",
+      "price": 3.6
+    },
+    {
+      "quantity": 1,
+      "name": "Rolo de fita 50 m Azul",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Rolo de fita 10 m Bronze.  1M =",
+      "price": 3.6
+    },
+    {
+      "quantity": 1,
+      "name": "Rolo de fita 10 m Azul Bebê",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Meia Autismo",
+      "price": 45.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Mario",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Mickey",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Meia Harry Potter",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Stitch Rosa",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Stitch Branca",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Snoopy",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia listrada Preta",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Listrada Branca",
+      "price": 45.0
+    },
+    {
+      "quantity": 2,
+      "name": "Meia Capivara",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Hello Kitty Branca",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Hello Kitty Laranja",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Mulher Maravilha",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Bob Esponja",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Patrick",
+      "price": 45.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Lula Molusco",
+      "price": 0.0
+    },
+    {
+      "quantity": 1,
+      "name": "Meia Pooh",
+      "price": 45.0
+    },
+    {
+      "quantity": 3,
+      "name": "Sacola Média c Alça",
+      "price": 35.0
+    },
+    {
+      "quantity": 2,
+      "name": "Sacola Peq c Alça",
+      "price": 23.0
+    },
+    {
+      "quantity": 9,
+      "name": "Sacola Transparente c Alça",
+      "price": 17.5
+    },
+    {
+      "quantity": 10,
+      "name": "Saco Organza.   25×40",
+      "price": 11.0
+    },
+    {
+      "quantity": 10,
+      "name": "Saco Organza.  15×23",
+      "price": 4.5
+    },
+    {
+      "quantity": 2,
+      "name": "Pct Balão 5\"",
+      "price": 0.0
+    },
+    {
+      "quantity": 2,
+      "name": "Paleta Hello Kitty",
+      "price": 70.0
+    },
+    {
+      "quantity": 2,
+      "name": "Kit Mini Esponja",
+      "price": 15.0
+    },
+    {
+      "quantity": 2,
+      "name": "Clip p Cabelo",
+      "price": 20.0
+    },
+    {
+      "quantity": 3,
+      "name": "Trio Contorno",
+      "price": 37.0
+    },
+    {
+      "quantity": 3,
+      "name": "Espelho Urso",
+      "price": 10.0
+    },
+    {
+      "quantity": 3,
+      "name": "Faixa Cabelo",
+      "price": 15.0
+    },
+    {
+      "quantity": 4,
+      "name": "Máscara Cílios",
+      "price": 27.0
+    },
+    {
+      "quantity": 5,
+      "name": "Lip Gloss",
+      "price": 23.0
+    },
+    {
+      "quantity": 5,
+      "name": "Cad A5 Mônica",
+      "price": 155.33
+    },
+    {
+      "quantity": 5,
+      "name": "Cad. Desenho Mônica",
+      "price": 39.0
+    },
+    {
+      "quantity": 4,
+      "name": "Cad X Elástico Azul Alice",
+      "price": 72.0
+    },
+    {
+      "quantity": 8,
+      "name": "Cad Colegial 10M Moranguinho CD",
+      "price": 75.0
+    },
+    {
+      "quantity": 4,
+      "name": "Cad Univ Mônica 10M",
+      "price": 64.0
+    },
+    {
+      "quantity": 8,
+      "name": "Cad Univ Alice 10M",
+      "price": 84.0
+    },
+    {
+      "quantity": 4,
+      "name": "Fichario Colegial  Alice",
+      "price": 166.0
+    },
+    {
+      "quantity": 8,
+      "name": "Fichario Colegial Morango",
+      "price": 186.0
+    },
+    {
+      "quantity": 5,
+      "name": "Refil p Fichario Colegial Moranguinho Vintage",
+      "price": 35.0
+    },
+    {
+      "quantity": 8,
+      "name": "Cad Colegial 10M CD Moranguinho",
+      "price": 75.0
+    },
+    {
+      "quantity": 4,
+      "name": "Caderno Brochura Moranguinho 160f Folhas decoradas ANIMATIVA",
+      "price": 88.8
+    },
+    {
+      "quantity": 2,
+      "name": "Cad Brochura Alice 160f Folhas decoradas ANIMATIVA",
+      "price": 98.0
+    },
+    {
+      "quantity": 5,
+      "name": "Refil p Fichario Colegial Alice",
+      "price": 35.0
+    },
+    {
+      "quantity": 10,
+      "name": "Caderno de Colorir 16F Dino",
+      "price": 18.0
+    },
+    {
+      "quantity": 20,
+      "name": "Caderno de Colorir 8F Moranguinho",
+      "price": 21.0
+    }
+  ]
+}
